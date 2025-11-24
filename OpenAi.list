@@ -6,15 +6,6 @@
 # AUTHOR: blackmatrix7
 # UPDATED: 2025-11-24
 
-########################################
-# 自动创建策略组并指定节点
-########################################
-[policy]
-OpenAI = select, 日本07, 日本08, 日本09, 日本10, 日本11, 日本12, 日本13
-
-########################################
-# 分流规则
-########################################
 [filter_remote]
 DOMAIN,browser-intake-datadoghq.com,OpenAI
 DOMAIN,chat.openai.com.cdn.cloudflare.net,OpenAI
