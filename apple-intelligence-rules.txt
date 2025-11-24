@@ -1,0 +1,13 @@
+payload:
+  # Siri & 搜索服务
+  - DOMAIN-SUFFIX,smoot.apple.com
+  - DOMAIN,guzzoni.apple.com
+  # 定位服务
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  # Private Relay & Mask
+  - DOMAIN,apple-relay.mask.apple-dns.net
+  # Apple Intelligence Extensions & Private Cloud Compute (PCC)
+  - DOMAIN,apple-relay.fastly-edge.com
+  - DOMAIN,apple-relay.apple.com
+  - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,cp4.cloudflare.com
