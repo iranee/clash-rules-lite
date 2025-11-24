@@ -6,7 +6,7 @@
 # AUTHOR: blackmatrix7
 # UPDATED: 2025-11-24
 
-[filter_remote]
+
 DOMAIN,browser-intake-datadoghq.com,OpenAI
 DOMAIN,chat.openai.com.cdn.cloudflare.net,OpenAI
 DOMAIN,openai-api.arkoselabs.com,OpenAI
